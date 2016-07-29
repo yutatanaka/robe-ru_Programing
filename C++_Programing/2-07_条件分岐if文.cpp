@@ -17,14 +17,15 @@ void BirthMonth()
 
 	cout << "あなたは何月生まれですか >" << flush;
 	cin >> month;
-
+	
 	if (1 <= month && month <= 12)
 	{
-		cout << "へー、" << month << " 月やと！？" << endl;
+		cout << "へー、" << month << "月なんですか。" << endl;
 	}
 	else
 	{
-		cout << month << " 月やと！？" << endl << "んな月、あらへんわ!" << endl;
+		cout << month << "月やと！？" << endl
+			<< "んな月、あらへんわ！" << endl;
 	}
 }
 

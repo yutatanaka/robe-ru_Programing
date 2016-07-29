@@ -20,7 +20,7 @@ int main()
 	cout << "a = " << a << endl;
 
 	a = 5;
-	cout << "a = " << a << endl;
+	cout << "2a = " << a * 2 << endl;
 
 	getchar();
 }

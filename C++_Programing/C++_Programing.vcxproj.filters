@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-05_どこから見れる？.cpp">
+    <ClCompile Include="2-05_どこから見れる？その２.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

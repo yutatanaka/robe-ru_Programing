@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-07_条件分岐if文.cpp">
+    <ClCompile Include="2-08_もっと条件分岐.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

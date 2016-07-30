@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-09_グルグル回る.cpp" />
+    <ClCompile Include="2-10_値の一括保管所.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{23D4AE1B-E166-42D6-98F7-081BC4521258}</ProjectGuid>

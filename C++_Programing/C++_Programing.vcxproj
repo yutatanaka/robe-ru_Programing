@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2-13_もう１つのループ.cpp" />
+    <ClCompile Include="2-13_もう１つのループ_その２.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{23D4AE1B-E166-42D6-98F7-081BC4521258}</ProjectGuid>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-04_文字列って？.cpp">
+    <ClCompile Include="3-05_文字列をいじろう.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

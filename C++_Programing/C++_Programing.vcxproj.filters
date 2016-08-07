@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-06_どんな関数？.cpp">
+    <ClCompile Include="3-06_どんな関数？_その２.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

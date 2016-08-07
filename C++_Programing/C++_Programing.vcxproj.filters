@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-08_乱数っぽい何か.cpp">
+    <ClCompile Include="3-08_乱数っぽい何か_その２.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>

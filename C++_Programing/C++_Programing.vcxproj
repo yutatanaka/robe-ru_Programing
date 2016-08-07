@@ -11,10 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3-07_ハメコミ合成.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="3-07_ハメコミ合成.h" />
+    <ClCompile Include="3-08_乱数っぽい何か.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{23D4AE1B-E166-42D6-98F7-081BC4521258}</ProjectGuid>
